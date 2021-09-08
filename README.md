@@ -2,7 +2,7 @@
 
 ## Assignment
 
-The goal of this assignment was to create a basic webpage to act as a template for all future react projects.
+The goal of this assignment was to create a basic webpage to act as a template for all future html/react projects.
 
 ![image of My webpage](././images/mypage.png)
 
