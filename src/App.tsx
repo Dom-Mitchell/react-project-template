@@ -1,5 +1,5 @@
 import React from 'react'
-import monk from './src/icons/footer/favicon.png'
+import monk from 'src/icons/footer/favicon.png'
 
 export function App() {
   return (
