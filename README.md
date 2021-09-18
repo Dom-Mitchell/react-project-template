@@ -8,7 +8,7 @@ The goal of this assignment was to create a basic webpage to act as a template f
 
 The above is a screen capture of the template that I created.
 
-![image of My Favicon](././icons/current/dai5.svg)
+![image of My Favicon](././src/icons/current/dai5.svg)
 
 The above is a custom favicon that I made for the template, to be used in all future html/react projects.
 
